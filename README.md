@@ -22,7 +22,7 @@
 * 🚀  I'm currently working on [Capstone Project](http://Larkaholic.github.io/ArtistHub-BaguioCity)
 * 🧠  I'm learning FireBase
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <div align="center">
 
