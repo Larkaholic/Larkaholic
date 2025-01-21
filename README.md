@@ -24,7 +24,7 @@
 
 <div align="center">
  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Larkaholic)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Larkaholic&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
