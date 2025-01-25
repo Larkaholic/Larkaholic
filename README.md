@@ -20,7 +20,7 @@
 * 🌍  I'm based in Philippines
 * ✉️  You can contact me at [orillosdominique@gmail.com](mailto:orillosdominique@gmail.com)
 * 🚀  I'm currently working on [Capstone Project](http://Larkaholic.github.io/ArtistHub-BaguioCity)
-* 🧠  I'm learning FireBase
+* 🧠  I'm learning Blade
 
 <div align="center">
  
