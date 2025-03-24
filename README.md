@@ -56,3 +56,9 @@
 <a> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Larkaholic&layout=pie&&theme=tokyonight)](https://github.com/Larkaholic/github-readme-stats) </a>
 
 </div>
+
+<div align="center">
+
+[![trophy](https://github-trophies.vercel.app/?username=Larkaholic&theme=dark_lover&no-frame=true)](https://github.com/Larkaholic/github-trophies)
+ 
+</div>
