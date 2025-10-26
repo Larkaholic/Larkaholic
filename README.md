@@ -4,13 +4,7 @@
 
 <div align="center">
  
- # Apiring
- 
-</div>
-
-<div align="center">
- 
- # ✨Full Stack Developer✨
+ # Full Stack Developer
  
 </div>
 
