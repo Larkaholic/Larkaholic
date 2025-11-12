@@ -4,6 +4,7 @@
 
 <div align="center">
  
+ # Full Time
  # Full Stack Developer
  
 </div>
