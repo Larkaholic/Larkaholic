@@ -10,12 +10,7 @@
 </div>
 
 
-![snake gif](https://github.com/Larkaholic/Larkaholic/blob/output/github-snake-dark.svg)
-
-* 🌍  I'm based in Philippines
-* ✉️  You can contact me at [orillosdominique@gmail.com](mailto:orillosdominique@gmail.com)
-* 🚀  I'm currently working on [Capstone Project](http://Larkaholic.github.io/ArtistHub-BaguioCity)
-* 🧠  I'm learning Blade
+![snake gif](https://github.com/Larkaholic/Larkaholic/blob/output/github-snake-dark.svg
 
 <div align="center">
  
