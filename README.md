@@ -10,7 +10,8 @@
 </div>
 
 
-![snake gif](https://github.com/Larkaholic/Larkaholic/blob/output/github-snake-dark.svg
+![snake gif](https://github.com/Larkaholic/Larkaholic/blob/output/github-snake-dark.svg)
+
 
 <div align="center">
  
