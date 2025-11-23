@@ -4,7 +4,7 @@
 
 <div align="center">
  
- # Full Time
+ # Inv8.Solutions
  # Full Stack Developer
  
 </div>
