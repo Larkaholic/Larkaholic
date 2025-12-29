@@ -3,14 +3,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=70&duration=3000&pause=600&center=true&width=1035&height=200&lines=Hello!+%F0%9F%91%8B%F0%9F%91%8B;I'm+Lark+Orillos;At+your+service+%F0%9F%99%8C%F0%9F%99%8C)](https://git.io/typing-svg)
 
 <div align="center">
- 
- # Inv8.Solutions
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=1A73E8&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Engineer)](https://git.io/typing-svg)
- 
- # University of the Cordilleras
- 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=145737&center=true&vCenter=true&width=435&lines=Startup+Development+Associate)](https://git.io/typing-svg)
- 
+
+![Inv8.Solutions](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1&pause=1000000&color=1A73E8&center=true&vCenter=true&repeat=false&width=435&lines=Inv8.Solutions)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=1A73E8&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Engineer)](https://git.io/typing-svg)
+
+![UC](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1&pause=1000000&color=145737&center=true&vCenter=true&repeat=false&width=700&lines=University+of+the+Cordilleras)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=145737&center=true&vCenter=true&width=435&lines=Startup+Development+Associate)](https://git.io/typing-svg)
+
 </div>
 
 
