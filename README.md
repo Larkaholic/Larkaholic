@@ -5,7 +5,11 @@
 <div align="center">
  
  # Inv8.Solutions
- # Full Stack Software Engineer
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=1A73E8&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Engineer)](https://git.io/typing-svg)
+ 
+ # University of the Cordilleras
+ 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=145737&center=true&vCenter=true&width=435&lines=Startup+Development+Associate)](https://git.io/typing-svg)
  
 </div>
 
