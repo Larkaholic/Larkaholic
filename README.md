@@ -1,3 +1,5 @@
+![3D Contrib](./profile-3d-contrib/profile-night-green.svg)
+
 [![](https://visitcount.itsvg.in/api?id=Larkaholic&label=Profile%20Views&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=70&duration=3000&pause=600&center=true&width=1035&height=200&lines=Hello!+%F0%9F%91%8B%F0%9F%91%8B;I'm+Lark+Orillos;At+your+service+%F0%9F%99%8C%F0%9F%99%8C)](https://git.io/typing-svg)
@@ -16,8 +18,6 @@
 
 
 ![snake gif](https://github.com/Larkaholic/Larkaholic/blob/output/github-snake-dark.svg)
-
-![3D Contrib](./profile-3d-contrib/profile-night-green.svg)
 
 
 <div align="center">
