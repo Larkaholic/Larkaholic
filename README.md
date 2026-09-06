@@ -6,9 +6,6 @@
 
 <div align="center">
 
-![Inv8.Solutions](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1&pause=1000000&color=1A73E8&center=true&vCenter=true&repeat=false&width=435&lines=Inv8.Studio)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=1A73E8&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Engineer)](https://git.io/typing-svg)
 
 ![UC](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1&pause=1000000&color=145737&center=true&vCenter=true&repeat=false&width=700&lines=University+of+the+Cordilleras)
 
